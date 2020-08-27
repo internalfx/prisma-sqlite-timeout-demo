@@ -5,7 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "@prisma/cli": "^2.6.0-dev.39",
-    "@prisma/client": "^2.6.0-dev.39"
+    "@prisma/client": "^2.6.0-dev.39",
+    "better-sqlite3": "7.1.0"
   },
   "devDependencies": {
     "@types/node": "^13.11.1",
